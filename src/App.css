@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+  padding: 50px 100px;
+}
+
+/* Styling the track component */
+.track {
+  width: 700px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  margin: 25px 0px;
+}
+
+.track div, .track p {
+  margin: 0px 10px; 
+}
+
+.track img {
+  width: 100px;
+  height: 100px;
+}
+
+.track h1 {
+  font-weight: 400;
+  font-size: 1.7em;
+  margin: 0px 0px 10px 0px;
+}
+
+.track h2 {
+  font-weight: 400;
+  font-size: 1.5em;
+  color: grey;
+  margin: 0px 0px;  
+}
